@@ -1,0 +1,213 @@
+
+:root {
+    --lightGray: rgba(223, 219, 211, 0.9);
+    --lightPetrolBlue: rgba(157, 213, 229, 0.3);
+    --petrolBlue: rgba(32, 112, 139, .5);
+}
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+html {
+    scroll-behavior: smooth;
+}
+body {
+    color: var(--lightGray);
+    font-family: 'Roboto', sans-serif;
+    scroll-behavior: smooth;
+    background-image: url(../components/hero/hero.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+h1, h2, h3, h4, h5, p {
+    font-weight: 700;
+}
+a {
+    text-decoration: none;
+    font-size: 16px;
+}
+/*** home-page ***/
+
+/* navbar */
+
+#navbar {
+    height: 6rem;
+}
+.navbar-toggler {
+    font-size: 1.5rem;
+    color: var(--lightGray);
+}
+.navbar-expand-lg .navbar-nav .nav-link {
+    font-weight: 900;
+    font-size: 1.2rem;
+    color: var(--lightGray);
+}
+.navbar-expand-lg .navbar-nav .nav-link:hover {
+    color: #fff;
+}
+.dropdown-divider {
+    color: var(--lightGray);
+}
+.navbar-nav {
+    padding-left: 30px;
+}
+.navbar-nav .dropdown-menu {
+    position: static;
+    background-color: var(--petrolBlue);
+}
+.dropdown-menu li:hover {
+    background-color: var(--lightPetrolBlue);
+}
+li::marker {
+  color: var(--lightGray);
+}
+.dropdown-item {
+    font-weight: 900;
+    color: var(--lightGray);
+}
+/* search box */
+.search-box {
+    background-color: transparent;
+    margin: 0 0 10px 10px;
+    color: var(--lightGray);
+}
+.search-box::placeholder {
+    color: var(--lightGray);
+}
+.search-btn {
+    font-weight: 900;
+    font-size: 30px;
+    color: var(--lightGray);
+}
+.search-btn:hover {
+    color: #fff;
+    opacity: 0.9;
+}
+/* hero */
+#home-page {
+    /* background-image: url(../components/hero/hero.jpg);
+    background-size: cover; */
+    height: 95vh;
+    padding-top: 2.5rem;
+}
+/* hgroup */
+.hgroup-wrapper {
+    height: 18.76rem;
+    padding-top: 6,25rem;
+    min-height: 40%;
+    padding-top: 3rem;
+}
+h1 {
+    font-size: 3.5rem;
+}
+h3 {
+    font-size: 2rem;
+}
+h5 {
+    font-size: 1.5rem;
+}
+
+/*** about ***/
+.about {
+    /* background-image: url(../components/background/about.jpg);
+    background-size: cover;
+    min-height: 95vh; */
+}
+
+/*** contact ***/
+#contact-page {
+    /* background-image: url(../components/background/contact.jpg);
+    background-size: cover;
+    min-height: 90vh;
+    padding-top: 3.5rem; */
+}
+#contact-page button {
+    color: var(--lightGray);
+}
+#contact-page button:hover {
+    color: #fff;
+}
+.contact-page .form-control {
+    background-color: rgba(157, 213, 229, 0.6);
+    font-weight: 700;
+}
+
+.social {
+    padding-top: 5vh;
+}
+
+/*** products ***/
+#products {
+    /* background-image: url(../components/background/products.jpg);
+    background-size: cover;
+    min-height: 95vh;
+    padding-block: min(8vh,5rem); */
+    min-height: 100%;
+    
+}
+.services {
+    /* background-image: url(../components/background/footer.jpg);
+    background-size: cover;
+    min-height: 90vh;
+    padding-block: min(8vh,5rem); */
+}
+
+/*** footer ***/
+footer {
+    /* background-image: url(../components/background/footer.jpg);
+    background-size: cover; */
+    text-transform: none;
+    min-height: 10vh;
+    
+}
+h5 {
+    color: var(--lightGray);
+}
+#copyright {
+    background-color: var(--petrolBlue);
+    color: rgba(255, 255, 255, 0.6);
+    min-height: 8vh;
+    
+}
+
+#copyright a {
+    color: rgba(255, 255, 255, 0.6);
+}
+
+
+@media only screen and (max-width: 900px) {
+    #home-page {
+        height: 600px;
+    }
+    .navbar-collapse{
+        background-color: var(--petrolBlue);
+    }
+    .navbar-nav {
+        padding-left: 0px;
+    }
+    h1 {
+        font-size: 3rem;
+    }
+    h3 {
+        font-size: 1.5rem;
+    }
+    h5 {
+        font-size: 1rem;
+    }
+    .nav-link {
+        margin-left: 0.8rem;
+        text-align: start;
+    }
+    .search-box {
+        width: 12rem;
+    }
+    #about {
+        min-height: 90vh;
+        background-position: right;
+        font-size: 0.8rem;
+    }
+    
+    
+}
