@@ -375,166 +375,6 @@ let dbProducts = [
   
 },
 {
-  "imgSrc": "Gromobranija01",
-  "productTitle": "Gromobranija"
-  
-},
-{
-  "imgSrc": "Gromobranija02",
-  "productTitle": "Gromobranija"
-  
-},
-{
-  "imgSrc": "Gromobranija03",
-  "productTitle": "Gromobranija"
-  
-},
-{
-  "imgSrc": "Gromobranija04",
-  "productTitle": "Gromobranija"
-  
-},
-{
-  "imgSrc": "Gromobranija05",
-  "productTitle": "Gromobranija"
-  
-},
-{
-  "imgSrc": "Gromobranija06",
-  "productTitle": "Gromobranija"
-  
-},
-{
-  "imgSrc": "Gromobranija07",
-  "productTitle": "Gromobranija"
-  
-},
-{
-  "imgSrc": "Gromobranija08",
-  "productTitle": "Gromobranija"
-  
-},
-{
-  "imgSrc": "Gromobranija09",
-  "productTitle": "Gromobranija"
-  
-},
-{
-  "imgSrc": "Gromobranija10",
-  "productTitle": "Gromobranija"
-  
-},
-{
-  "imgSrc": "Gromobranija11",
-  "productTitle": "Gromobranija"
-  
-},
-{
-  "imgSrc": "Gromobranija12",
-  "productTitle": "Gromobranija"
-  
-},
-{
-  "imgSrc": "Gromobranija13",
-  "productTitle": "Gromobranija"
-  
-},
-{
-  "imgSrc": "Gromobranija14",
-  "productTitle": "Gromobranija"
-  
-},
-{
-  "imgSrc": "Gromobranija15",
-  "productTitle": "Gromobranija"
-  
-},
-{
-  "imgSrc": "Gromobranija16",
-  "productTitle": "Gromobranija"
-  
-},
-{
-  "imgSrc": "Gromobranija17",
-  "productTitle": "Gromobranija"
-  
-},
-{
-  "imgSrc": "Gromobranija18",
-  "productTitle": "Gromobranija"
-  
-},
-{
-  "imgSrc": "Gromobranija19",
-  "productTitle": "Gromobranija"
-  
-},
-{
-  "imgSrc": "Gromobranija20",
-  "productTitle": "Gromobranija"
-  
-},
-{
-  "imgSrc": "Gromobranija21",
-  "productTitle": "Gromobranija"
-  
-},
-{
-  "imgSrc": "Gromobranija22",
-  "productTitle": "Gromobranija"
-  
-},
-{
-  "imgSrc": "Gromobranija23",
-  "productTitle": "Gromobranija"
-  
-},
-{
-  "imgSrc": "Gromobranija24",
-  "productTitle": "Gromobranija"
-  
-},
-{
-  "imgSrc": "Gromobranija25",
-  "productTitle": "Gromobranija"
-  
-},
-{
-  "imgSrc": "Gromobranija26",
-  "productTitle": "Gromobranija"
-  
-},
-{
-  "imgSrc": "Gromobranija27",
-  "productTitle": "Gromobranija"
-  
-},
-{
-  "imgSrc": "Gromobranija28",
-  "productTitle": "Gromobranija"
-  
-},
-{
-  "imgSrc": "Gromobranija29",
-  "productTitle": "Gromobranija"
-  
-},
-{
-  "imgSrc": "Gromobranija30",
-  "productTitle": "Gromobranija"
-  
-},
-{
-  "imgSrc": "Gromobranija31",
-  "productTitle": "Gromobranija"
-  
-},
-{
-  "imgSrc": "Gromobranija32",
-  "productTitle": "Gromobranija"
-  
-},
-{
   "imgSrc": "img11",
   "productTitle": "Bravarski-radovi-čelične-konstrukcije"
   
@@ -717,6 +557,166 @@ let dbProducts = [
 {
   "imgSrc": "img47",
   "productTitle": "Bravarski-radovi-čelične-konstrukcije"
+  
+},
+{
+  "imgSrc": "Gromobranija01",
+  "productTitle": "Gromobranija"
+  
+},
+{
+  "imgSrc": "Gromobranija02",
+  "productTitle": "Gromobranija"
+  
+},
+{
+  "imgSrc": "Gromobranija03",
+  "productTitle": "Gromobranija"
+  
+},
+{
+  "imgSrc": "Gromobranija04",
+  "productTitle": "Gromobranija"
+  
+},
+{
+  "imgSrc": "Gromobranija05",
+  "productTitle": "Gromobranija"
+  
+},
+{
+  "imgSrc": "Gromobranija06",
+  "productTitle": "Gromobranija"
+  
+},
+{
+  "imgSrc": "Gromobranija07",
+  "productTitle": "Gromobranija"
+  
+},
+{
+  "imgSrc": "Gromobranija08",
+  "productTitle": "Gromobranija"
+  
+},
+{
+  "imgSrc": "Gromobranija09",
+  "productTitle": "Gromobranija"
+  
+},
+{
+  "imgSrc": "Gromobranija10",
+  "productTitle": "Gromobranija"
+  
+},
+{
+  "imgSrc": "Gromobranija11",
+  "productTitle": "Gromobranija"
+  
+},
+{
+  "imgSrc": "Gromobranija12",
+  "productTitle": "Gromobranija"
+  
+},
+{
+  "imgSrc": "Gromobranija13",
+  "productTitle": "Gromobranija"
+  
+},
+{
+  "imgSrc": "Gromobranija14",
+  "productTitle": "Gromobranija"
+  
+},
+{
+  "imgSrc": "Gromobranija15",
+  "productTitle": "Gromobranija"
+  
+},
+{
+  "imgSrc": "Gromobranija16",
+  "productTitle": "Gromobranija"
+  
+},
+{
+  "imgSrc": "Gromobranija17",
+  "productTitle": "Gromobranija"
+  
+},
+{
+  "imgSrc": "Gromobranija18",
+  "productTitle": "Gromobranija"
+  
+},
+{
+  "imgSrc": "Gromobranija19",
+  "productTitle": "Gromobranija"
+  
+},
+{
+  "imgSrc": "Gromobranija20",
+  "productTitle": "Gromobranija"
+  
+},
+{
+  "imgSrc": "Gromobranija21",
+  "productTitle": "Gromobranija"
+  
+},
+{
+  "imgSrc": "Gromobranija22",
+  "productTitle": "Gromobranija"
+  
+},
+{
+  "imgSrc": "Gromobranija23",
+  "productTitle": "Gromobranija"
+  
+},
+{
+  "imgSrc": "Gromobranija24",
+  "productTitle": "Gromobranija"
+  
+},
+{
+  "imgSrc": "Gromobranija25",
+  "productTitle": "Gromobranija"
+  
+},
+{
+  "imgSrc": "Gromobranija26",
+  "productTitle": "Gromobranija"
+  
+},
+{
+  "imgSrc": "Gromobranija27",
+  "productTitle": "Gromobranija"
+  
+},
+{
+  "imgSrc": "Gromobranija28",
+  "productTitle": "Gromobranija"
+  
+},
+{
+  "imgSrc": "Gromobranija29",
+  "productTitle": "Gromobranija"
+  
+},
+{
+  "imgSrc": "Gromobranija30",
+  "productTitle": "Gromobranija"
+  
+},
+{
+  "imgSrc": "Gromobranija31",
+  "productTitle": "Gromobranija"
+  
+},
+{
+  "imgSrc": "Gromobranija32",
+  "productTitle": "Gromobranija"
   
 }
 

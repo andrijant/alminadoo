@@ -2,8 +2,9 @@
 :root {
     --lightGray: rgba(223, 219, 211, 0.9);
     --lightPetrolBlue: rgba(157, 213, 229, 0.3);
-    --petrolBlue: rgba(32, 112, 139, .5);
-}
+    --petrolBlue: rgba(32, 112, 139, 0.5);
+    --petrolBlue2: rgba(32, 112, 139, 0.9);   
+}   
 * {
     padding: 0;
     margin: 0;
@@ -182,7 +183,7 @@ h5 {
         height: 600px;
     }
     .navbar-collapse{
-        background-color: var(--petrolBlue);
+        background-color: var(--petrolBlue2);
     }
     .navbar-nav {
         padding-left: 0px;
