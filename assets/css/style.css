@@ -3,7 +3,7 @@
     --lightGray: rgba(223, 219, 211, 0.9);
     --lightPetrolBlue: rgba(157, 213, 229, 0.3);
     --petrolBlue: rgba(32, 112, 139, 0.5);
-    --petrolBlue2: rgba(32, 112, 139, 0.9);   
+    --petrolBlue2: rgba(32, 112, 139, 0.95);   
 }   
 * {
     padding: 0;
