@@ -29,6 +29,11 @@ a {
     text-decoration: none;
     font-size: 16px;
 }
+
+.display-none {
+    display: none;
+}
+
 /*** home-page ***/
 
 /* navbar */
@@ -90,10 +95,13 @@ li::marker {
 #home-page {
     /* background-image: url(../components/hero/hero.jpg);
     background-size: cover; */
-    height: 95vh;
+    height: 93vh;
     padding-top: 2.5rem;
 }
 /* hgroup */
+#hgroup {
+    
+}
 .hgroup-wrapper {
     height: 18.76rem;
     padding-top: 6,25rem;
@@ -102,6 +110,7 @@ li::marker {
 }
 h1 {
     font-size: 3.5rem;
+    display: block;
 }
 h3 {
     font-size: 2rem;
@@ -136,7 +145,7 @@ h5 {
 }
 
 .social {
-    padding-top: 5vh;
+    padding-top: 2vh;
 }
 
 /*** products ***/
